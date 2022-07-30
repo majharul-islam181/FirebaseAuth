@@ -31,7 +31,7 @@ class _EmailPasswordLoginState extends State<EmailPasswordLogin> {
           const Text(
             ' Login',
             style: TextStyle(
-              fontSize: 39,
+              fontSize: 30,
             ),
           ),
           SizedBox(height: MediaQuery.of(context).size.height * 0.08),
